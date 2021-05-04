@@ -2,4 +2,4 @@ Our air was to develop a deep learning-based system for the persuasive classific
 In this project, we have used a recently published public X-ray database for trainning and validation purposes.
 
 Link to the code:
-https://colab.research.google.com/drive/154f9LuZSz8JeckNzx8t0lszlHgp49myl
+https://colab.research.google.com/drive/154f9LuZSz8JeckNzx8t0IszIHgp49myI
